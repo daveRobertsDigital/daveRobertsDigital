@@ -65,7 +65,9 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=daveRobertsDigital&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+[![daveRobertsDigital's GitHub stats](https://dave-stats.vercel.app/api?username=daveRobertsDigital)](https://github.com/daveRobertsDigital/dave-stats)</div>
+
 
 <br/>  
 
