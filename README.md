@@ -66,7 +66,7 @@
 
 ## Github Stats  
 <div align="center">
-[![daveRobertsDigital's GitHub stats](https://dave-stats.vercel.app/api?username=daveRobertsDigital)](https://github.com/daveRobertsDigital/dave-stats)</div>
+<img src= https://dave-stats.vercel.app/api?username=daveRobertsDigital /></div>
 
 
 <br/>  
